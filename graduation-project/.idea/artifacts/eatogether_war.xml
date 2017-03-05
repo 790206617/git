@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="eatogether:war">
+    <output-path>$PROJECT_DIR$/eatogether/target</output-path>
+    <root id="archive" name="eatogether.war">
+      <element id="artifact" artifact-name="eatogether:war exploded" />
+    </root>
+  </artifact>
+</component>
